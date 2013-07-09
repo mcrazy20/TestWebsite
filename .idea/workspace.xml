@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" name="Default" comment="">
+<<<<<<< HEAD
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/stylesheets/homepage.css.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/homepage.css.scss" />
+=======
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/homepage/index.html.erb" afterPath="$PROJECT_DIR$/app/views/homepage/index.html.erb" />
+>>>>>>> parent of 72caf55... Damn broken CSS
     </list>
     <ignored path="TestWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -71,7 +75,11 @@
       <file leaf-file-name="homepage.css.scss" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/homepage.css.scss">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+            <state line="3" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.055737704">
+=======
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+>>>>>>> parent of 72caf55... Damn broken CSS
               <folding />
             </state>
           </provider>
@@ -996,7 +1004,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/homepage/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
+        <state line="3" column="0" selection-start="179" selection-end="179" vertical-scroll-proportion="0.055737704">
+=======
         <state line="30" column="10" selection-start="805" selection-end="805" vertical-scroll-proportion="0.27293578">
+>>>>>>> parent of 72caf55... Damn broken CSS
           <folding />
         </state>
       </provider>
