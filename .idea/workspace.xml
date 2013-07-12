@@ -39,7 +39,7 @@
       <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="73" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
+            <state line="26" column="77" selection-start="1010" selection-end="1010" vertical-scroll-proportion="-17.0">
               <folding />
             </state>
           </provider>
@@ -48,7 +48,7 @@
       <file leaf-file-name="sponsors.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="48" column="125" selection-start="1864" selection-end="1864" vertical-scroll-proportion="0.76605505">
+            <state line="46" column="24" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.8316384">
               <folding />
             </state>
           </provider>
@@ -1012,13 +1012,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="73" selection-start="1181" selection-end="1181" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/content/scholarship.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="41" selection-start="1596" selection-end="1596" vertical-scroll-proportion="-13.730769">
@@ -1033,9 +1026,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="77" selection-start="1010" selection-end="1010" vertical-scroll-proportion="-17.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="48" column="125" selection-start="1864" selection-end="1864" vertical-scroll-proportion="0.76605505">
+        <state line="46" column="24" selection-start="1341" selection-end="1341" vertical-scroll-proportion="0.8316384">
           <folding />
         </state>
       </provider>
