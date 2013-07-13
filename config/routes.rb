@@ -6,6 +6,8 @@ TestWebsite::Application.routes.draw do
   get "content/scholarship"
 
   get "homepage/index"
+  resources :content
+  resources :homepage
   root to:"homepage#index"
   match '/aboutus', to: 'content#aboutus'
   match '/sponsors', to: 'content#sponsors'
