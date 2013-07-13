@@ -1,17 +1,19 @@
 TestWebsite::Application.routes.draw do
   get "content/sponsors"
-
   get "content/aboutus"
-
   get "content/scholarship"
-
   get "homepage/index"
+
   resources :content
   resources :homepage
-  root to:"homepage#index"
+
   match '/aboutus', to: 'content#aboutus'
   match '/sponsors', to: 'content#sponsors'
   match'/scholarship', to: 'content#scholarship'
+
+  root to:"homepage#index"
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
