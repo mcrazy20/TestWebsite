@@ -2,6 +2,9 @@ TestWebsite::Application.routes.draw do
   get "content/sponsors"
   get "content/aboutus"
   get "content/scholarship"
+  get "content/charity"
+  get "content/events"
+  get "content/news"
   get "homepage/index"
 
   resources :content
@@ -10,6 +13,9 @@ TestWebsite::Application.routes.draw do
   match '/aboutus', to: 'content#aboutus'
   match '/sponsors', to: 'content#sponsors'
   match'/scholarship', to: 'content#scholarship'
+  match '/charity', to: 'content#charity'
+  match '/events', to: 'content#events'
+  match '/news', to: 'content#news'
 
   root to:"homepage#index"
 
