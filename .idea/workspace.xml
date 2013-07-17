@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/homepage/index.html.erb" afterPath="$PROJECT_DIR$/app/views/homepage/index.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/content/sponsors.html.erb" afterPath="$PROJECT_DIR$/app/views/content/sponsors.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +49,7 @@
       <file leaf-file-name="sponsors.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="72" selection-start="362" selection-end="362" vertical-scroll-proportion="0.344207">
+            <state line="18" column="44" selection-start="334" selection-end="334" vertical-scroll-proportion="0.344207">
               <folding />
             </state>
           </provider>
@@ -1039,7 +1039,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="72" selection-start="362" selection-end="362" vertical-scroll-proportion="0.344207">
+        <state line="18" column="44" selection-start="334" selection-end="334" vertical-scroll-proportion="0.344207">
           <folding />
         </state>
       </provider>
