@@ -49,7 +49,7 @@
       <file leaf-file-name="sponsors.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="44" selection-start="334" selection-end="334" vertical-scroll-proportion="0.344207">
+            <state line="18" column="41" selection-start="331" selection-end="331" vertical-scroll-proportion="0.344207">
               <folding />
             </state>
           </provider>
@@ -1039,7 +1039,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="44" selection-start="334" selection-end="334" vertical-scroll-proportion="0.344207">
+        <state line="18" column="41" selection-start="331" selection-end="331" vertical-scroll-proportion="0.344207">
           <folding />
         </state>
       </provider>
