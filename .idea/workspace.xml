@@ -4,7 +4,6 @@
     <list default="true" id="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.rakeTasks" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/content/sponsors.html.erb" afterPath="$PROJECT_DIR$/app/views/content/sponsors.html.erb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TestWebsite.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -15,7 +14,7 @@
     <file path="/aboutus.html.erb" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1373328430759" ignored="false" />
     <file path="/index.html.erb" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1374022117904" ignored="false" />
     <file path="/Gemfile" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1373052337892" ignored="false" />
-    <file path="/sponsors.html.erb" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1374022305712" ignored="false" />
+    <file path="/sponsors.html.erb" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1374023442402" ignored="false" />
     <file path="/scholarship.html.erb" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1373495431451" ignored="false" />
     <file path="/charity.html.erb" changelist="3f4c8a08-e237-4b42-ac58-0e91f60dccf2" time="1373926251961" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,7 +48,7 @@
       <file leaf-file-name="sponsors.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="41" selection-start="331" selection-end="331" vertical-scroll-proportion="0.344207">
+            <state line="18" column="43" selection-start="333" selection-end="333" vertical-scroll-proportion="0.3449831">
               <folding />
             </state>
           </provider>
@@ -1039,7 +1038,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/content/sponsors.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="41" selection-start="331" selection-end="331" vertical-scroll-proportion="0.344207">
+        <state line="18" column="43" selection-start="333" selection-end="333" vertical-scroll-proportion="0.3449831">
           <folding />
         </state>
       </provider>
